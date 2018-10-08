@@ -1,0 +1,4 @@
+#Mon Oct 08 15:00:24 BRT 2018
+base.0=C\:\\xampp\\htdocs\\GitHub\\localNotification\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
